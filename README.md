@@ -1,1 +1,1 @@
-shell input and output redirctions and filters
+This is for shell basics
